@@ -402,6 +402,16 @@ export const featuredTools: Tool[] = [
 
   // Books
   {
+    "title": "Best-Selling Book Outline Creator",
+    "description": "Craft high-impact, market-driven outlines for non-fiction books that captivate readers and drive sales.",
+    "imageUrl": "https://res.cloudinary.com/dhxriuzu5/image/upload/v1740718143/DALL_E_2025-02-28_09.58.38_-_A_neon_logo_featuring_an_open_book_with_a_glowing_gradient_effect_smoothly_transitioning_between_blue_purple_and_pink._The_text_Best_Selling_Book_ywfxms.webp",
+    "url": "https://chatgpt.com/g/g-67c0fc97c8e081918f74f728cf16613f-best-selling-book-outline-creator",
+    "rating": 0,
+    "reviews": 0,
+    "categories": ["Book Writing", "Publishing Strategy"],
+    "isHidden": false
+  },
+  {
     title: "Non-Fiction Book Introduction Specialist",
     description: "Craft compelling introductions for non-fiction books.",
     imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1734567854/Non-fiction-intro-specialist_jrkz4a.jpg",
