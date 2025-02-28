@@ -361,7 +361,7 @@ export const featuredTools: Tool[] = [
     title: "Low Ticket Sales Email Creator",
     description: "Create effective email campaigns to drive conversions and boost engagement.",
     imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1732414941/low-ticket-offer-promo-email-writer_ceyl7c.jpg",
-    url: "https://chatgpt.com/g/g-K2beMR1t5-low-ticket-sales-email-creator",
+    url: "https://chatgpt.com/g/g-67c112bb13008191945cd619856570cf-low-ticket-sales-email-creator",
     rating: 0,
     reviews: 0,
     categories: ["Emails", "Marketing Campaigns"],
