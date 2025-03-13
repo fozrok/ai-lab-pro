@@ -12,9 +12,9 @@ export const featuredTools: Tool[] = [
     isHidden: false
   },
     {
-    title: "The Ultimate USP Framework & Marketing Plan",
+    title: "Big Idea Signature Framework",
     description: "Create viral business offers that captivate and convert.",
-    imageUrl: "https://hypnolab.ai/wp-content/plugins/hypnolab-ai-tools/images/unique-offer-designer.webp",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1741906958/Big-idea-signature-framework_rnd10y.png",
     url: "https://chatgpt.com/g/g-J9dkcb6LH-viral-offer-creator",
     rating: 0,
     reviews: 0,
@@ -22,9 +22,9 @@ export const featuredTools: Tool[] = [
     isHidden: false
   },
     {
-    title: "Customer Journey Designer",
+    title: "Trinity Of Transformation - Value Ladder",
     description: "Design and plan product offerings with strategic alignment.",
-    imageUrl: "https://hypnolab.ai/wp-content/plugins/hypnolab-ai-tools/images/product-map-designer.webp",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1741907588/a-night-scene-of-a-cyberpunk-city-with-t_v3FTObl4TP-gxPBBcx4Gdw_cP-XgOjNQCGpjIZOSlvNDQ_ztx6mk.png",
     url: "https://chatgpt.com/g/g-wN2wM1K4k-product-map-strategist",
     rating: 0,
     reviews: 0,
@@ -76,6 +76,16 @@ export const featuredTools: Tool[] = [
     description: "Turn your passions and skills into income streams using a simple four-step process",
     imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1734327267/DALL_E_2024-12-16_15.34.06_-_A_sleek_futuristic_neon_logo_for_Micro_Offer_Deal_Creator_._The_design_features_a_glowing_dollar_sign_intertwined_with_a_hypnotic_spiral_as_the_main_pz0kqk.webp",
     url: "https://chatgpt.com/g/g-cOF63YLoW-micro-offer-idea-creator-v2",
+    rating: 0,
+    reviews: 0,
+    categories: ["Digital Brain", "Marketing Strategy", "Foundational"],
+    isHidden: false
+  },
+  {
+    title: "T.E.A.C.H. Course Creator",
+    description: "Create a unqiue & profoundly transformational course in 10 minutes",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1741909285/teach-course-creator_ojttc3.png",
+    url: "https://chatgpt.com/g/g-67cfb0b3a538819188f3a2a71d1b76ad-course-creator-gizmo-v2",
     rating: 0,
     reviews: 0,
     categories: ["Digital Brain", "Marketing Strategy", "Foundational"],
@@ -176,7 +186,7 @@ export const featuredTools: Tool[] = [
     title: "SEO Authority Lists Post Creator",
     description: "Create high-impact, SEO-targeted authority list posts.",
     imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1732414940/seo-article-creator-lists_gydqzd.jpg",
-    url: "https://chatgpt.com/g/g-BCGX2UJ99-seo-authority-lists-post-creator",
+    url: "https://chatgpt.com/g/g-ju9XAQkOr-seo-authority-lists-post-creator",
     rating: 0,
     reviews: 0,
     categories: ["SEO", "Content Strategy"],
