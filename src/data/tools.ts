@@ -13,9 +13,9 @@ export const featuredTools: Tool[] = [
   },
     {
     title: "Big Idea Signature Framework",
-    description: "Create viral business offers that captivate and convert.",
+    description: "Create A Unique Signature Framework for your business offers that captivate and convert.",
     imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1741906958/Big-idea-signature-framework_rnd10y.png",
-    url: "https://chatgpt.com/g/g-J9dkcb6LH-viral-offer-creator",
+    url: "https://chatgpt.com/g/g-J9dkcb6LH-big-idea-signature-framework-v4",
     rating: 0,
     reviews: 0,
     categories: ["Offer Creation", "Marketing Campaigns", "Foundational", "Branding"],
@@ -25,7 +25,7 @@ export const featuredTools: Tool[] = [
     title: "Trinity Of Transformation - Value Ladder",
     description: "Design and plan product offerings with strategic alignment.",
     imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1741907588/a-night-scene-of-a-cyberpunk-city-with-t_v3FTObl4TP-gxPBBcx4Gdw_cP-XgOjNQCGpjIZOSlvNDQ_ztx6mk.png",
-    url: "https://chatgpt.com/g/g-wN2wM1K4k-product-map-strategist",
+    url: "https://chatgpt.com/g/g-wN2wM1K4k-value-ladder-strategist",
     rating: 0,
     reviews: 0,
     categories: ["Marketing Strategy", "Offer Creation", "Foundational"],
@@ -170,6 +170,26 @@ export const featuredTools: Tool[] = [
     reviews: 0,
     categories: ["Marketing Strategy", "Copywriting", "Foundational", "Branding"],
     isHidden: false
+},
+{
+  title: "Advanced Copywriting",
+  description: "Design high-impact marketing messages that resonate and compel action.",
+  imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1743282028/a-futuristic-sleek-modern-app-icon-with-_iI3x1lmFQf2rNqW8_LfqRg__eLHZ-QjShqmT34txZnhKw_n97tk1.png",
+  url: "https://chatgpt.com/g/g-67c92f7f2588819194119297330613aa-advanced-copywriting-strategist",
+  rating: 0,
+  reviews: 0,
+  categories: ["Marketing Strategy", "Copywriting", "Foundational", "Branding"],
+  isHidden: false
+},
+{
+  title: "Mechanism Focused Copywriting",
+  description: "create conversion-optimized marketing assets entirely around a unique mechanism",
+  imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1743243569/a-futuristic-neon-logo-set-against-a-glo_2ZUUPyL8SeSif8u_YRf5vQ_XOt8KpP5QeWkiwzYt316ww_iw6a9j.png",
+  url: "https://chatgpt.com/g/g-67e7c3092bc48191b9eadb609fc58378-mechanism-focused-copywriting",
+  rating: 0,
+  reviews: 0,
+  categories: ["Marketing Strategy", "Copywriting", "Foundational", "Branding"],
+  isHidden: false
 },
   // SEO & Content Tools
   {
