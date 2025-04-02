@@ -39,7 +39,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Marketing Strategy", "Marketing Campaigns", "Foundational"],
-    isHidden: false
+    isHidden: true
   },
     {
     title: "Revenue Reverse Engineering",
