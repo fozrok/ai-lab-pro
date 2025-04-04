@@ -4,7 +4,7 @@ export const featuredTools: Tool[] = [
   {
     title: "Digital Brain Creator",
     description: "Define and refine your business with AI-powered coaching.",
-    imageUrl: "https://hypnolab.ai/wp-content/plugins/hypnolab-ai-tools/images/digital-brain-creator.webp",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1732414931/digital-brain_xqnnuw.jpg",
     url: "https://chatgpt.com/g/g-qpOHuNFjx-your-digital-brain-creator",
     rating: 0,
     reviews: 0,
@@ -34,7 +34,7 @@ export const featuredTools: Tool[] = [
     {
     title: "Funnel System Planner",
     description: "Design effective sales funnels for maximum conversion.",
-    imageUrl: "https://hypnolab.ai/wp-content/plugins/hypnolab-ai-tools/images/funnel-system-planner.webp",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1732414935/funnel-system-planner_jnzwqi.jpg",
     url: "https://chatgpt.com/g/g-7ySsZs40Y-funnel-system-planner",
     rating: 0,
     reviews: 0,
@@ -94,7 +94,7 @@ export const featuredTools: Tool[] = [
     {
     title: "Pillar Content Creator",
     description: "Transform core themes into powerful content strategies.",
-    imageUrl: "https://hypnolab.ai/wp-content/plugins/hypnolab-ai-tools/images/pillar-content-creator.webp",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1732414938/pillar-content-creator_lxklxg.jpg",
     url: "https://chatgpt.com/g/g-AxrDpONU5-pillar-content-creator-gpt",
     rating: 0,
     reviews: 0,
@@ -124,7 +124,7 @@ export const featuredTools: Tool[] = [
   {
     title: "Market Research Rocket",
     description: "Develop detailed customer profiles with comprehensive research.",
-    imageUrl: "https://hypnolab.ai/wp-content/plugins/hypnolab-ai-tools/images/market-research-rocket.webp",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1732414946/market-research-rocket_rgfmvw.webp",
     url: "https://chatgpt.com/g/g-jxZS0QF6s-market-research-rocket",
     rating: 0,
     reviews: 0,
@@ -144,7 +144,7 @@ export const featuredTools: Tool[] = [
   {
     title: "Brand Voice Designer",
     description: "Design a compelling brand identity with consistent voice and tone.",
-    imageUrl: "https://hypnolab.ai/wp-content/plugins/hypnolab-ai-tools/images/brand-voice-writer.webp",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1732414947/brand-voice_lj6bfu.webp",
     url: "https://chatgpt.com/g/g-esKPJFB0x-brand-voice-designer",
     rating: 0,
     reviews: 0,
@@ -164,7 +164,7 @@ export const featuredTools: Tool[] = [
   {
     title: "Key Marketing Message Writer",
     description: "Design high-impact marketing messages that resonate and compel action.",
-    imageUrl: "https://hypnolab.ai/wp-content/plugins/hypnolab-ai-tools/images/marketing-message-writer.webp",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1732414936/marketing-message-writer_fh68h0.jpg",
     url: "https://chatgpt.com/g/g-6muNTz0ly-key-marketing-message-writer",
     rating: 0,
     reviews: 0,
