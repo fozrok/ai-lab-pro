@@ -484,10 +484,10 @@ export const featuredTools: Tool[] = [
     isHidden: false
   },
   {
-    title: "Social Media Image Creator V3",
+    title: "Social Media Image Creator V4",
     description: "Create captivating social media images with powerful messaging.",
     imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1732414934/social-media-image-creator_nrwmc6.jpg",
-    url: "https://chatgpt.com/g/g-R3qT42TJ5-social-media-image-creator-v3",
+    url: "https://chatgpt.com/g/g-R3qT42TJ5-social-media-image-creator-v4",
     rating: 0,
     reviews: 0,
     categories: ["Images"],
