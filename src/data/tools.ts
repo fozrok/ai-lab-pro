@@ -111,6 +111,16 @@ export const featuredTools: Tool[] = [
     categories: ["SEO", "Content Strategy"],
     isHidden: false
   },
+  {
+    title: "LinkedIn Content Creator",
+    description: "Create engaging and professional LinkedIn content that drives engagement and builds your personal brand.",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1747957269/linkedin-content-creator_jd4y8n.png",
+    url: "https://chatgpt.com/g/g-682fac12222081919ae39b72c54cbe13-li-content-creator",
+    rating: 0,
+    reviews: 0,
+    categories: ["Content Strategy", "Social Media"],
+    isHidden: false,
+  },
         {
     title: "The Archetype Creator",
     description: "Create Unique Archetype Frameworks based on your Target Market's problems",

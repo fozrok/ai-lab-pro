@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Brain, Rocket, Map, ChevronDown, ArrowDownWideNarrow, DollarSign, FileText, Calendar, LayoutGrid, Magnet } from 'lucide-react';
+import { Brain, Rocket, Map, ChevronDown, FileText, Calendar, LayoutGrid } from 'lucide-react';
 import SidebarAdBanner from '../ads/SidebarAdBanner';
 
 interface SidebarProps {
@@ -12,14 +12,8 @@ interface SidebarProps {
 
 const wizardSteps = [
   { name: 'Digital Brain Creator', icon: Brain },
-  { name: 'The Ultimate USP Framework & Marketing Plan', icon: Rocket },
-  { name: 'Customer Journey Designer', icon: Map }
-];
-
-const funnelSteps = [
-  { name: 'Funnel System Planner', icon: ArrowDownWideNarrow },
-    { name: 'Lead Magnet Strategist', icon: Magnet },
-  { name: 'Micro Offer Deal Creator', icon: DollarSign }
+  { name: 'Big Idea Signature Framework', icon: Rocket },
+  { name: 'Trinity Of Transformation - Value Ladder', icon: Map }
 ];
 
 const contentSteps = [
@@ -34,7 +28,6 @@ export default function Sidebar({
   onWizardStepSelect
 }: SidebarProps) {
   const [isWizardExpanded, setIsWizardExpanded] = useState(false);
-  const [isFunnelExpanded, setIsFunnelExpanded] = useState(false);
   const [isContentExpanded, setIsContentExpanded] = useState(false);
 
   const WizardSection = ({ 
@@ -131,14 +124,6 @@ export default function Sidebar({
         steps={wizardSteps}
         isExpanded={isWizardExpanded}
         onToggle={() => setIsWizardExpanded(!isWizardExpanded)}
-      />
-
-      {/* Funnel Wizard Section */}
-      <WizardSection
-        title="Funnel Wizard"
-        steps={funnelSteps}
-        isExpanded={isFunnelExpanded}
-        onToggle={() => setIsFunnelExpanded(!isFunnelExpanded)}
       />
 
       {/* Content Wizard Section */}
