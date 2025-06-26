@@ -9,6 +9,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Foundational", "Marketing Strategy"],
+    tags: ["digital brain", "coaching", "business strategy", "foundational"],
     isHidden: false
   },
     {
@@ -19,6 +20,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Offer Creation", "Marketing Campaigns", "Foundational", "Branding"],
+    tags: ["signature framework", "offer creation", "marketing campaigns", "branding"],
     isHidden: false
   },
     {
@@ -29,6 +31,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Marketing Strategy", "Offer Creation", "Foundational"],
+    tags: ["value ladder", "product offerings", "marketing strategy", "offer creation"],
     isHidden: false
   },
     {
@@ -39,6 +42,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Marketing Strategy", "Marketing Campaigns", "Foundational"],
+    tags: ["sales funnel", "conversion", "marketing strategy", "marketing campaigns"],
     isHidden: true
   },
     {
@@ -49,6 +53,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Marketing Strategy", "Marketing Campaigns", "Foundational"],
+    tags: ["revenue", "business model", "earning goals", "marketing strategy"],
     isHidden: false
   },
     {
@@ -59,6 +64,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Video", "Content Strategy"],
+    tags: ["video script", "common mistakes", "content strategy"],
     isHidden: false
   },
     {
@@ -69,6 +75,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Digital Brain", "Marketing Strategy", "Foundational"],
+    tags: ["lead magnet", "lead generation", "marketing strategy", "digital brain"],
     isHidden: false
   },
   {
@@ -79,6 +86,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Digital Brain", "Marketing Strategy", "Foundational"],
+    tags: ["micro offer", "income streams", "marketing strategy", "digital brain"],
     isHidden: false
   },
   {
@@ -89,6 +97,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Digital Brain", "Marketing Strategy", "Foundational"],
+    tags: ["course creator", "teaching", "digital brain", "marketing strategy"],
     isHidden: false
   },
     {
@@ -99,6 +108,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Content Strategy", "SEO", "Foundational"],
+    tags: ["pillar content", "content strategy", "seo", "foundational"],
     isHidden: false
   },
    {
@@ -109,6 +119,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["SEO", "Content Strategy"],
+    tags: ["social media", "content calendar", "seo", "content strategy"],
     isHidden: false
   },
   {
@@ -119,7 +130,19 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Content Strategy", "Social Media"],
+    tags: ["linkedin", "content", "social media", "personal brand"],
     isHidden: false,
+  },
+  {
+    title: "5-Day Story-Post Strategy Generator",
+    description: "Create five high-converting Facebook story-style posts, demonstrating how to blend personal pain points, insight, and transformation into emotionally resonant content that drives comments or clicks to coaching offers.",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1750978357/a-vibrant-neon-logo-featuring-the-text-5_FSLPydzlS7GJDVWTK1YyMg_Ghz8-ijXTC2A-VAQo_QcSw_dinpgh.png",
+    url: "https://chatgpt.com/g/g-685dcde1e458819187a9e2c16709f70a-5-day-story-post-strategy-generator",
+    rating: 0,
+    reviews: 0,
+    categories: ["Content Strategy", "Social Media", "Marketing Strategy"],
+    tags: ["facebook", "story posts", "content strategy", "social media", "marketing", "coaching"],
+    isHidden: false
   },
         {
     title: "The Archetype Creator",
@@ -129,6 +152,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Offer Creation", "Marketing Campaigns", "Foundational", "Branding"],
+    tags: ["archetype", "target market", "offer creation", "branding"],
     isHidden: false
   },
   {
@@ -139,6 +163,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Foundational", "Marketing Strategy"],
+    tags: ["market research", "customer profiles", "foundational", "marketing strategy"],
     isHidden: false
   },
   {
@@ -149,6 +174,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Branding", "Foundational"],
+    tags: ["brand positioning", "brand identity", "branding", "foundational"],
     isHidden: false
   },
   {
@@ -159,6 +185,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Branding", "Content Strategy", "Foundational"],
+    tags: ["brand voice", "brand identity", "branding", "content strategy"],
     isHidden: false
   },
   {
@@ -169,6 +196,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Content Strategy", "Branding", "Foundational"],
+    tags: ["writing fingerprint", "writing analysis", "content strategy", "branding"],
     isHidden: false
   },
   {
@@ -179,6 +207,7 @@ export const featuredTools: Tool[] = [
     rating: 0,
     reviews: 0,
     categories: ["Marketing Strategy", "Copywriting", "Foundational", "Branding"],
+    tags: ["marketing messages", "copywriting", "marketing strategy", "branding"],
     isHidden: false
 },
 {
@@ -189,6 +218,7 @@ export const featuredTools: Tool[] = [
   rating: 0,
   reviews: 0,
   categories: ["Marketing Strategy", "Copywriting", "Foundational", "Branding"],
+  tags: ["advanced copywriting", "marketing messages", "copywriting", "marketing strategy"],
   isHidden: false
 },
 {
@@ -199,6 +229,7 @@ export const featuredTools: Tool[] = [
   rating: 0,
   reviews: 0,
   categories: ["Marketing Strategy", "Copywriting", "Foundational", "Branding"],
+  tags: ["mechanism copywriting", "conversion", "marketing assets", "copywriting"],
   isHidden: false
 },
   // SEO & Content Tools
