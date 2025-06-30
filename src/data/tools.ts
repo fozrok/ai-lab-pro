@@ -16,7 +16,7 @@ export const featuredTools: Tool[] = [
     title: "Big Idea Signature Framework",
     description: "Create A Unique Signature Framework for your business offers that captivate and convert.",
     imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1741906958/Big-idea-signature-framework_rnd10y.png",
-    url: "https://chatgpt.com/g/g-J9dkcb6LH-big-idea-signature-framework-v4",
+    url: "https://chatgpt.com/g/g-J9dkcb6LH-big-idea-signature-framework-v5",
     rating: 0,
     reviews: 0,
     categories: ["Offer Creation", "Marketing Campaigns", "Foundational", "Branding"],
