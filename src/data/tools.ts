@@ -144,6 +144,18 @@ export const featuredTools: Tool[] = [
     tags: ["facebook", "story posts", "content strategy", "social media", "marketing", "coaching"],
     isHidden: false
   },
+  {
+    title: "IG Carousel Creator",
+    description: "Transforms long-form writing into engaging carousel posts with tailored strategies, clear slide maps, and guidance to grow your audience with swipe-worthy, high-value content.",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1752444499/IG_carousel_bu6n6f.png",
+    url: " https://chatgpt.com/g/g-68705113fb1481919b12d3631f9f6cbf-carousel-creator",
+    rating: 0,
+    reviews: 0,
+    categories: ["Content Strategy", "Social Media", "Marketing Strategy"],
+    tags: ["instagram", "story posts", "content strategy", "social media", "marketing", "coaching"],
+    isHidden: false
+  },
+ 
         {
     title: "The Archetype Creator",
     description: "Create Unique Archetype Frameworks based on your Target Market's problems",
@@ -156,6 +168,17 @@ export const featuredTools: Tool[] = [
     isHidden: false
   },
   {
+    title: "The Problem-Solution Framework Creator",
+    description: "guides coaches through a structured, clear interactive process: identifying core problems, dysfunctional and solution traits, mapping Venn diagram archetypes, and defining transformational pathways interactively.",
+    imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1752443790/a-digital-illustration-of-a-sleek-neon-l_9eeLBsq8SkahPOB79L2_uA_9TXiwkT7RqG7YKH5D4FFhA_e5wuj1.png",
+    url: "https://chatgpt.com/g/g-67975f3b80a88191a898d8477145ec49-archetype-creator",
+    rating: 0,
+    reviews: 0,
+    categories: ["Offer Creation", "Marketing Campaigns", "Foundational", "Branding"],
+    tags: ["archetype", "target market", "offer creation", "branding"],
+    isHidden: false
+  },
+    {
     title: "Market Research Rocket",
     description: "Develop detailed customer profiles with comprehensive research.",
     imageUrl: "https://res.cloudinary.com/dhxriuzu5/image/upload/v1732414946/market-research-rocket_rgfmvw.webp",
